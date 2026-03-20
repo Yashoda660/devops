@@ -1,0 +1,3 @@
+Hi good morning 
+I am learning git
+In git Im practicing commands
